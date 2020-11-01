@@ -1,0 +1,10 @@
+.DS_Store
+
+
+Scripts/
+Lib/
+# local env files
+.env.local
+.env.*.local
+
+__pycache__/
